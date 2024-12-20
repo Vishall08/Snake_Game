@@ -1,9 +1,6 @@
 # Snake_Game
 
 
-Memory updated
-Here’s a description for your GitHub repository:
-
 Snake Game in Java
 This repository contains a classic Snake game implemented in Java. The project consists of two main Java files:
 
