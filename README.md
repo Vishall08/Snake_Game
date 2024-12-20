@@ -1,19 +1,39 @@
 # Snake_Game
 
-This repository contains a classic Snake game implemented in Java.
+This repository hosts a classic Snake game developed using Java. 
+The game leverages the AWT and Swing libraries for graphical rendering and user interaction.
 
-The project consists of two main Java files:
 
-Board.java: Manages the game board, rendering, and interactions.
 
-Snake.java: Handles the snake's movement, growth, and collision detection.
+Key Features
 
-Features:
+Smooth and responsive snake movement.
 
-Smooth snake movement.
+Real-time collision detection for the snake and game boundaries.
 
-Collision detection for the snake with itself and the board boundaries.
+Dynamic score tracking with visual updates.
 
-Dynamic score tracking as the snake grows.
+Clean and engaging graphics using java.awt and javax.swing packages.
 
-Feel free to explore, modify, or contribute to this project!
+
+
+Libraries and Tools Used
+
+java.awt for graphics, font styling, and rendering.
+
+javax.swing for GUI components like panels and buttons.
+
+javax.swing.Timer for game loop implementation.
+
+Event-driven programming with ActionListener and KeyAdapter for controls.
+
+
+Structure
+
+Board.java: Manages the game board, including rendering and interactions.
+
+Snake.java: Controls snake behavior, including movement, growth, and collision logic.
+
+
+
+Feel free to fork, modify, or contribute to enhance the game further.
